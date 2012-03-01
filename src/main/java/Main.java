@@ -1,8 +1,5 @@
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
-import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
 
 /**
  * TODO: Javadoc
