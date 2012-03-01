@@ -1,11 +1,6 @@
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 
-/**
- * TODO: Javadoc
- *
- * @author Naaman Newbold
- */
 public class Main {
 
     public static void main(String... args) throws Exception {
