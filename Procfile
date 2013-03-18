@@ -1,1 +1,1 @@
-web: java -jar target/app.jar
+web: target/start Main
