@@ -8,4 +8,5 @@ dist
 dump.rdb
 .env
 .anvil
-*.ws.sc
+.idea
+*.iml
